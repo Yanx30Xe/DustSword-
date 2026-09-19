@@ -1,0 +1,7 @@
+name: DustSword
+version: 1.0
+main: com.dust.sword.DustSword
+api-version: '1.21'
+commands:
+  dustsword:
+    usage: /dustsword give
